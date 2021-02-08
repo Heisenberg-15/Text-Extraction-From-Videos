@@ -19,6 +19,6 @@ Instructions to run:<br/>
 Required libraries are OpenCV, pytesseract, imutils<br/>
 The repository contains test videos to test the code
 
-Download frozen_east_text_detection.pb, test_video for the EAST model and test video respectively<br/>
+Download **frozen_east_text_detection.pb**, **test_video** for the EAST model and test video respectively<br/>
 Command to run : python3 text_extraction_from_video.py
 
